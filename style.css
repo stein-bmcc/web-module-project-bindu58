@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+html{lato-black 
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+body{
+  font-family: Arial, sans-serif;
+}
+
+p{
+    font-size: 15px;
+    text-align: left;
+
+}
+p1{font-size:15px;
+  text-align: left;
+  box{ }
+
+}
+p2{font-size: 15px;
+text-align: right;
+}
+
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+h1{ font-size: 30px;
+font-style:italic;
+}
+h2{font-size: 30px;
+  font-style:italic;
+
+}
+body{
+    background-color: rgb(171, 220, 220);
+}
+nav ul {
+  list-style: none;
+  padding: 10px;
+  margin: 5px;
+}
+
+nav li{
+display: inline-block;
+margin-right: 20px;
+}
